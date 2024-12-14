@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Swede-Enochian-Wordle/static/css/main.a135db4f.css",
-    "main.js": "/Swede-Enochian-Wordle/static/js/main.f1089626.js",
+    "main.css": "/Swede-Enochian-Wordle/static/css/main.ef32f657.css",
+    "main.js": "/Swede-Enochian-Wordle/static/js/main.e6e1c7e5.js",
     "static/js/787.f0fc0331.chunk.js": "/Swede-Enochian-Wordle/static/js/787.f0fc0331.chunk.js",
     "static/media/BCSans-Bold.woff": "/Swede-Enochian-Wordle/static/media/BCSans-Bold.252ecf87ea37c93b293c.woff",
     "static/media/BCSans-BoldItalic.woff": "/Swede-Enochian-Wordle/static/media/BCSans-BoldItalic.73ed5137b2c4a42b754f.woff",
@@ -9,12 +9,12 @@
     "static/media/BCSans-Regular.woff": "/Swede-Enochian-Wordle/static/media/BCSans-Regular.0079ea8e42d4e81a13d2.woff",
     "index.html": "/Swede-Enochian-Wordle/index.html",
     "static/media/getFetch.cjs": "/Swede-Enochian-Wordle/static/media/getFetch.c780682470504fffbd04.cjs",
-    "main.a135db4f.css.map": "/Swede-Enochian-Wordle/static/css/main.a135db4f.css.map",
-    "main.f1089626.js.map": "/Swede-Enochian-Wordle/static/js/main.f1089626.js.map",
+    "main.ef32f657.css.map": "/Swede-Enochian-Wordle/static/css/main.ef32f657.css.map",
+    "main.e6e1c7e5.js.map": "/Swede-Enochian-Wordle/static/js/main.e6e1c7e5.js.map",
     "787.f0fc0331.chunk.js.map": "/Swede-Enochian-Wordle/static/js/787.f0fc0331.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a135db4f.css",
-    "static/js/main.f1089626.js"
+    "static/css/main.ef32f657.css",
+    "static/js/main.e6e1c7e5.js"
   ]
 }
