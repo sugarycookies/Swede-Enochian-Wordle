@@ -11,7 +11,7 @@ export const WORDS = [
   'GURDO',
   'POREÇ',
   'SELAÈ',
-  'ĤRURA'
+  'ĤRURA',
   'CRAEL',
   'CAXAŊ',
   'LXANO',
