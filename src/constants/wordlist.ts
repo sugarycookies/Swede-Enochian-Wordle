@@ -7,6 +7,25 @@ export const WORDS = [
   'PARAŚ',
   'NAFAI',
   'HOREC',
+  'NAĤUR',
+  'GURDO',
+  'POREÇ',
+  'SELAÈ',
+  'ĤRURA'
+  'CRAEL',
+  'CAXAŊ',
+  'LXANO',
+  'FURXÒ',
+  'ATPTI',
+  'OLLON',
+  'YRICE',
+  'ELGOÙ',
+  'ÙÈDNI',
+  'RENDE',
+  'HALEG',
+  'UTIMT',
+  'LÈNOĤ',
+  'IDSER',
 ]
 
 if (CONFIG.normalization) {
