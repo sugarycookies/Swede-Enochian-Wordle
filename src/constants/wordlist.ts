@@ -2,6 +2,11 @@ import { CONFIG } from './config'
 
 export const WORDS = [
   'ALFÒC',
+  'PASEC',
+  'DESOŊ',
+  'PARAŚ',
+  'NAFAI',
+  'HOREC',
 ]
 
 if (CONFIG.normalization) {
